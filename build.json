@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Armattan Morphite 180",
+    "esc": "Flyduino/KISS-12A",
+    "motor": "Armattan DYS 3100kv 1306",
+    "fc": "AbuseMark/Acro-Naze32",
+    "prop": [
+      "Gemfan/4x4.5-FG-MR"
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy Nano-Tech 4S 850mAh 45-90C"
+    ],
+    "osd": "",
+    "receiver": "Brotronics 4CH Remix OpenLRS",
+    "flightcam": "Elgae/FOV160-FPV200-set-with-LT200,-V700-and-FPV-RTU-cable(32CH)",
+    "hqcam": "",
+    "videotx": "Elgae/FOV160-FPV200-set-with-LT200,-V700-and-FPV-RTU-cable(32CH)",
+    "blackbox": "",
+    "voltagereg": "7805 Linear Regulator"
+  },
+  "version": 1
 }
