@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Hawkeye 240",
+    "esc": "DYS/Mini-20A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "AbuseMark/Acro-Naze32",
+    "prop": [
+      "HQProp/5x4-FG-DD"
+    ],
+    "arm": "",
+    "battery": [
+      "Dinogy/4S-1300mAh-65C"
+    ],
+    "osd": "ReadyToFlyQuads/Micro-MinimOSD",
+    "receiver": "Hawkeye 9ch OpenLRS",
+    "flightcam": "RunCam/PZ0420H",
+    "hqcam": "",
+    "videotx": "Skyzone/TS5823-200mw-video-transmitter",
+    "blackbox": "",
+    "voltagereg": "ReadyMadRC Dual Output"
+  },
+  "version": 1
 }
