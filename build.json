@@ -17,7 +17,7 @@
     "hqcam": "",
     "videotx": "Skyzone/TS5823-200mw-video-transmitter",
     "blackbox": "",
-    "voltagereg": "ReadyMadeRC Dual Output"
+    "voltagereg": "ReadyMadeRC Dual Output BEC"
   },
   "version": 1
 }
