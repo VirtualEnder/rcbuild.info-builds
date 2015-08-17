@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "ZMR 250 G10",
+    "esc": "Hobbywing Xrotor 40A",
+    "motor": "Sunnysky/X2208-1500kv",
+    "fc": "AbuseMark/Acro-Naze32",
+    "prop": [
+      "HQProp/6x4.5-CF-BN"
+    ],
+    "arm": "Thug 3mm ZMR Upgrade",
+    "battery": [
+      "Turnigy Nano-Tech 6S 1550mAh 65-130C"
+    ],
+    "osd": "",
+    "receiver": "Brotronics/4ch-Remix",
+    "flightcam": "RunCam/PZ0420M",
+    "hqcam": "",
+    "videotx": "Skyzone/TS5823-200mw-video-transmitter",
+    "blackbox": "",
+    "voltagereg": "Generic Adjustable Vreg set to 10V"
+  },
+  "version": 1
 }
