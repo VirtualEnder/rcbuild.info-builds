@@ -5,7 +5,7 @@
     "motor": "Sunnysky/X2208-1500kv",
     "fc": "AbuseMark/Acro-Naze32",
     "prop": [
-      "UnknownManufacturer/banggood/KINGKONG-6040-Propellers-CW-&-CCW-10-Pairs-For-QAV250-RC-Multirotors"
+      "HQProp/6x4.5-CF-BN"
     ],
     "arm": "",
     "battery": [
