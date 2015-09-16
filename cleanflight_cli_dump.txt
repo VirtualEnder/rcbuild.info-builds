@@ -1,3 +1,4 @@
+
 # version
 # BetaFlight/NAZE 1.10.0 Aug 20 2015 / 22:13:32 (b6e0fbd)
 # dump master
@@ -152,7 +153,7 @@ set align_acc = 0
 set align_mag = 0
 set align_board_roll = 180
 set align_board_pitch = 0
-set align_board_yaw = 90
+set align_board_yaw = -90
 set max_angle_inclination = 500
 set gyro_lpf = 0
 set moron_threshold = 32
@@ -288,14 +289,14 @@ set baro_cf_vel =  0.985
 set baro_cf_alt =  0.965
 set mag_declination = 0
 set pid_controller = 1
-set p_pitch = 62
+set p_pitch = 58
 set i_pitch = 30
 set d_pitch = 38
-set p_roll = 42
+set p_roll = 39
 set i_roll = 26
 set d_roll = 35
 set p_yaw = 120
-set i_yaw = 60
+set i_yaw = 55
 set d_yaw = 6
 set p_pitchf =  1.500
 set i_pitchf =  0.400
@@ -320,7 +321,7 @@ set i_vel = 45
 set d_vel = 1
 set yaw_p_limit = 500
 set gyro_cut_hz = 100
-set pterm_cut_hz = 60
+set pterm_cut_hz = 55
 set dterm_cut_hz = 14
 
 # dump rates
@@ -335,8 +336,6 @@ set thr_mid = 50
 set thr_expo = 0
 set roll_rate = 55
 set pitch_rate = 55
-set yaw_rate = 80
+set yaw_rate = 100
 set tpa_rate = 25
 set tpa_breakpoint = 1500
-
-# 
