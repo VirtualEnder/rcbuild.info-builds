@@ -1,6 +1,6 @@
 {
   "config": {
-    "frame": "THug-FRAMES/THuG280LW",
+    "frame": "Thug FRAMES Thug280LW",
     "esc": "Hobbywing Xrotor 40A",
     "motor": "Sunnysky/X2208-1500kv",
     "fc": "AbuseMark/Acro-Naze32",
